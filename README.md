@@ -4,7 +4,7 @@
 
 ## [More Details] (https://www.codingbank.com/item/up-theme-wordpress-blogging-theme/)
 
-## Theme Featured:
+# Theme Featured:
 
 ### Responsive
 
