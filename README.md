@@ -5,73 +5,75 @@
 [More Details](https://www.codingbank.com/item/up-theme-wordpress-blogging-theme/)
 
 This project right now open source, you can use this theme for your clients/own project and also you can modify this theme as you wish.
+
+
 ![Preview](https://raw.githubusercontent.com/hmbashar/up-wordpress-premium-blogging-theme/master/screenshot.png)
 
 ## Theme Featured:
 
-### Responsive
+#### Responsive
 
-### 9+ Ads Place
+#### 9+ Ads Place
 
-### One Sidebar
+#### One Sidebar
 
-### Latest Update
+#### Latest Update
 
-### Header Ads Option
+#### Header Ads Option
 
-### Socials link add
+#### Socials link add
 
-### Header Logo
+#### Header Logo
 
-### Socials Share Button
+#### Socials Share Button
 
-### Posts View Counter
+#### Posts View Counter
 
-### Favicon support
+#### Favicon support
 
-### 2 Column Category System
+#### 2 Column Category System
 
-### Theme Options
+#### Theme Options
 
-### SEO Friendly
+#### SEO Friendly
 
-### Extra Security Support
+#### Extra Security Support
 
-### User Friendly Options
+#### User Friendly Options
 
-### Online Documentation with videos tutorials
+#### Online Documentation with videos tutorials
 
-### 3 Months Free Support
+#### 3 Months Free Support
 
-### Notice on User register Page
+#### Notice on User register Page
 
-### Logo Change in login page
+#### Logo Change in login page
 
-### 3 Widgets Supports
+#### 3 Widgets Supports
 
-### Full Width Page Views
+#### Full Width Page Views
 
-### Social Icons
+#### Social Icons
 
-### Contents show Only Register user system.
+#### Contents show Only Register user system.
 
-### Login Panel Logo change
+#### Login Panel Logo change
 
-### Dashboard Logo Add/Change, Example: [Click Here](http://prntscr.com/a2mi9b)
+#### Dashboard Logo Add/Change, Example: [Click Here](http://prntscr.com/a2mi9b)
 
-### Show Register Panel Extra notice Example: [Click Here](http://prntscr.com/lmgonm)
+#### Show Register Panel Extra notice Example: [Click Here](http://prntscr.com/lmgonm)
 
-### Email Subscribe Widgets and show all post content below.
+#### Email Subscribe Widgets and show all post content below.
 
-### Show Extra Text/Notice In Post Editor, You can see Screenshot, [Click Here](http://prntscr.com/a2mimv)
+#### Show Extra Text/Notice In Post Editor, You can see Screenshot, [Click Here](http://prntscr.com/a2mimv)
 
-### Spam Protection
+#### Spam Protection
 
-### 2 Menus
+#### 2 Menus
 
-### Blog page random ads system.
+#### Blog page random ads system.
 
-### And Lot of more………
+#### And Lot of more………
 
 ![Mockup](https://raw.githubusercontent.com/hmbashar/up-wordpress-premium-blogging-theme/master/screenshots/up%20theme%20demo%20img%201.jpg)
 ![Mockup](https://raw.githubusercontent.com/hmbashar/up-wordpress-premium-blogging-theme/master/screenshots/up%20theme%20demo%20img%202.jpg)
