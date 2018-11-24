@@ -1,8 +1,8 @@
 ###  UP Theme | WordPress Blogging Theme
 
-	[Demo] (http://www.wp-tutorials.com/)  Note: Demo Link last update 25/11/2018, It's can be change live demo website in future.
+[Demo] (http://www.wp-tutorials.com/)  Note: Demo Link last update 25/11/2018, It's can be change live demo website in future.
 
-	[More Details] (https://www.codingbank.com/item/up-theme-wordpress-blogging-theme/)
+[More Details] (https://www.codingbank.com/item/up-theme-wordpress-blogging-theme/)
 
 # Theme Featured:
 
