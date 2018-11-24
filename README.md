@@ -1,10 +1,13 @@
-###  UP Theme | WordPress Blogging Theme
+#  UP Theme | WordPress Blogging Theme
 
 [Demo](http://www.wp-tutorials.com/)  Note: Demo Link last update 25/11/2018, It's can be change live demo website in future.
 
 [More Details](https://www.codingbank.com/item/up-theme-wordpress-blogging-theme/)
 
-# Theme Featured:
+This project right now open source, you can use this theme for your clients/own project and also you can modify this theme as you wish.
+![Preview](https://raw.githubusercontent.com/hmbashar/up-wordpress-premium-blogging-theme/master/screenshot.png)
+
+## Theme Featured:
 
 ### Responsive
 
@@ -69,3 +72,13 @@
 ### Blog page random ads system.
 
 ### And Lot of more………
+
+![Mockup](https://raw.githubusercontent.com/hmbashar/up-wordpress-premium-blogging-theme/master/screenshots/up%20theme%20demo%20img%201.jpg)
+![Mockup](https://raw.githubusercontent.com/hmbashar/up-wordpress-premium-blogging-theme/master/screenshots/up%20theme%20demo%20img%202.jpg)
+![Mockup](https://raw.githubusercontent.com/hmbashar/up-wordpress-premium-blogging-theme/master/screenshots/up%20theme%20demo%20img%203.jpg)
+![Mockup](https://raw.githubusercontent.com/hmbashar/up-wordpress-premium-blogging-theme/master/screenshots/up%20theme%20demo%20img%204.jpg)
+![Mockup](https://raw.githubusercontent.com/hmbashar/up-wordpress-premium-blogging-theme/master/screenshots/up%20theme%20demo%20img%205.jpg)
+![Mockup](https://raw.githubusercontent.com/hmbashar/up-wordpress-premium-blogging-theme/master/screenshots/up%20theme%20demo%20img%206.jpg)
+![Mockup](https://raw.githubusercontent.com/hmbashar/up-wordpress-premium-blogging-theme/master/screenshots/up%20theme%20demo%20img%207.jpg)
+![Mockup](https://raw.githubusercontent.com/hmbashar/up-wordpress-premium-blogging-theme/master/screenshots/up%20theme%20demo%20img%208.jpg)
+![Mockup](https://raw.githubusercontent.com/hmbashar/up-wordpress-premium-blogging-theme/master/screenshots/up%20theme%20demo%20img%209.jpg)
