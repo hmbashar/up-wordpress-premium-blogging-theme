@@ -4,8 +4,9 @@
 
 [More Details](https://www.codingbank.com/item/up-theme-wordpress-blogging-theme/)
 
-This project right now open source, you can use this theme for your clients/own project and also you can modify this theme as you wish.
+#### This project right now open source, you can use this theme for your clients/own project and also you can modify this theme as you wish.
 
+[Documentation](https://www.youtube.com/watch?v=V2CdJnTwzrw&list=PLGVk6NI2fTUAgAY8vMZQ-0qSFeo_hKidT)  (Videos)
 
 ![Preview](https://raw.githubusercontent.com/hmbashar/up-wordpress-premium-blogging-theme/master/screenshot.png)
 
